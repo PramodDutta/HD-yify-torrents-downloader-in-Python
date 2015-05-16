@@ -4,7 +4,9 @@ Python Project to download the yifi Torrents by Rating , Genre and Pixel(720p, 1
 
 ###Technology Used:
 Language : Python
+
 Web Service : JSON
+
 Library(Module) : urllib,requets,time
 
 ###Creating a Python Project
