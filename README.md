@@ -2,7 +2,12 @@
 
 Python Project to download the yifi Torrents by Rating , Genre and Pixel(720p, 1080p) and direclty start utorrent to downalod them. Gives exact seeds, peers and Size info. 
 
-Creating a Python Project
+###Technology Used:
+Language : Python
+Web Service : JSON
+Library(Module) : urllib,requets,time
+
+###Creating a Python Project
 Run the MoviesDB.py
 
 >>>python MoviesDB.py
